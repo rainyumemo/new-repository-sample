@@ -1,0 +1,31 @@
+# 依赖目录（通常很大且可重新生成）
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# 构建输出（如果不需要在仓库中保留）
+dist/
+build/
+*.exe
+*.dll
+
+# 敏感信息
+.env
+.env.local
+.env.*.local
+config.ini
+secrets.json
+
+# 编辑器/系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 日志和临时文件
+*.log
+tmp/
+temp/
