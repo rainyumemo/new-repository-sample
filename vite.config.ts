@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/new-repository-sample/' : '/',
+  base: process.env.BUILD_FOR_GHPAGES ? '/new-repository-sample/' : '/',
   plugins: [vue()],
   resolve: {
     alias: {
