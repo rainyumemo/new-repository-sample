@@ -4,4 +4,4 @@
 
 构建效果：[https://rainyumemo.github.io/new-repository-sample/](https://rainyumemo.github.io/new-repository-sample/)
 
-本存储库可配合相应教程（尚未发布）食用。
+本存储库可配合相应教程（[https://www.rainyumemo.cn/2026/04/14/how-to-deploy-static-website-to-public/](https://www.rainyumemo.cn/2026/04/14/how-to-deploy-static-website-to-public/)）食用。
